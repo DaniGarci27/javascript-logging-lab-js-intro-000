@@ -1,3 +1,3 @@
-console.error("HALP!")
-console.log(">>>>>>")
-console.warn('The what?')
+console.error("Remember to")
+console.log("insert")
+console.warn('The card! PLEASE!')
